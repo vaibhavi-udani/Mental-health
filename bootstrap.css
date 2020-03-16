@@ -1,0 +1,73 @@
+.text-center{
+    text-align:center;
+}
+.btn{
+    font-size: 14px;
+    border-radius: 6px;
+    padding: 0px 10px;
+    border: none;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor:pointer;
+}
+button:focus{
+    outline:0;
+}
+.btn-blue{
+    margin:15px 12.5px;
+    background:#5757d6;
+    color:#efeff3;
+}
+.select-btn{
+    font-size: 1.1rem;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border:none;
+    transition: ease 0.2s;
+    top:0px;
+    box-shadow: 0px 5px 0px black;
+    cursor: pointer;
+    position:relative;
+}
+.circle{
+    border-radius: 100%;
+    display:inline-block;
+    padding:0;
+}
+.col-1{
+    width:8.33%
+}
+.col-2{
+    width:16.66%
+}
+.col-3{
+    width:25%;
+}
+.col-4{
+    width:33.33%;
+}
+.col-5{
+    width:41.66%;
+}
+.col-6{
+    width:50%;
+}
+.col-7{
+    width:58.33%
+}
+.col-8{
+    width:66.66%;
+}
+.col-9{
+    width:75%;
+}
+.col-10{
+    width:83.33%;
+}
+.col-11{
+    width:91.66%;
+}
+.col-12{
+    width:100%;
+}
+
